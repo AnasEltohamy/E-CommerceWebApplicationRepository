@@ -1,0 +1,48 @@
+E:\Asp.net\Database\MVC\MVC Projects\CompanyProject.PL\Company.DaL\bin\Debug\net5.0\Company.DaL.deps.json
+E:\Asp.net\Database\MVC\MVC Projects\CompanyProject.PL\Company.DaL\bin\Debug\net5.0\Company.DaL.dll
+E:\Asp.net\Database\MVC\MVC Projects\CompanyProject.PL\Company.DaL\bin\Debug\net5.0\Company.DaL.pdb
+E:\Asp.net\Database\MVC\MVC Projects\CompanyProject.PL\Company.DaL\obj\Debug\net5.0\Company.DaL.csproj.AssemblyReference.cache
+E:\Asp.net\Database\MVC\MVC Projects\CompanyProject.PL\Company.DaL\obj\Debug\net5.0\Company.DaL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Asp.net\Database\MVC\MVC Projects\CompanyProject.PL\Company.DaL\obj\Debug\net5.0\Company.DaL.AssemblyInfoInputs.cache
+E:\Asp.net\Database\MVC\MVC Projects\CompanyProject.PL\Company.DaL\obj\Debug\net5.0\Company.DaL.AssemblyInfo.cs
+E:\Asp.net\Database\MVC\MVC Projects\CompanyProject.PL\Company.DaL\obj\Debug\net5.0\Company.DaL.csproj.CoreCompileInputs.cache
+E:\Asp.net\Database\MVC\MVC Projects\CompanyProject.PL\Company.DaL\obj\Debug\net5.0\Company.DaL.dll
+E:\Asp.net\Database\MVC\MVC Projects\CompanyProject.PL\Company.DaL\obj\Debug\net5.0\refint\Company.DaL.dll
+E:\Asp.net\Database\MVC\MVC Projects\CompanyProject.PL\Company.DaL\obj\Debug\net5.0\Company.DaL.pdb
+E:\Asp.net\Database\MVC\MVC Projects\CompanyProject.PL\Company.DaL\obj\Debug\net5.0\ref\Company.DaL.dll
+E:\Asp.net\Database\MVC\MVC Projects\CompanyProject.PL\CompanyProject.PL\Company.DaL\bin\Debug\net5.0\Company.DaL.deps.json
+E:\Asp.net\Database\MVC\MVC Projects\CompanyProject.PL\CompanyProject.PL\Company.DaL\bin\Debug\net5.0\Company.DaL.dll
+E:\Asp.net\Database\MVC\MVC Projects\CompanyProject.PL\CompanyProject.PL\Company.DaL\bin\Debug\net5.0\Company.DaL.pdb
+E:\Asp.net\Database\MVC\MVC Projects\CompanyProject.PL\CompanyProject.PL\Company.DaL\obj\Debug\net5.0\Company.DaL.csproj.AssemblyReference.cache
+E:\Asp.net\Database\MVC\MVC Projects\CompanyProject.PL\CompanyProject.PL\Company.DaL\obj\Debug\net5.0\Company.DaL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Asp.net\Database\MVC\MVC Projects\CompanyProject.PL\CompanyProject.PL\Company.DaL\obj\Debug\net5.0\Company.DaL.AssemblyInfoInputs.cache
+E:\Asp.net\Database\MVC\MVC Projects\CompanyProject.PL\CompanyProject.PL\Company.DaL\obj\Debug\net5.0\Company.DaL.AssemblyInfo.cs
+E:\Asp.net\Database\MVC\MVC Projects\CompanyProject.PL\CompanyProject.PL\Company.DaL\obj\Debug\net5.0\Company.DaL.csproj.CoreCompileInputs.cache
+E:\Asp.net\Database\MVC\MVC Projects\CompanyProject.PL\CompanyProject.PL\Company.DaL\obj\Debug\net5.0\Company.DaL.dll
+E:\Asp.net\Database\MVC\MVC Projects\CompanyProject.PL\CompanyProject.PL\Company.DaL\obj\Debug\net5.0\refint\Company.DaL.dll
+E:\Asp.net\Database\MVC\MVC Projects\CompanyProject.PL\CompanyProject.PL\Company.DaL\obj\Debug\net5.0\Company.DaL.pdb
+E:\Asp.net\Database\MVC\MVC Projects\CompanyProject.PL\CompanyProject.PL\Company.DaL\obj\Debug\net5.0\ref\Company.DaL.dll
+D:\02 Corses\Web\02 Back-End\Route\Eng Aliaa Tarek\07 MVC\مشروع التخرج\CompanyProject.PL\CompanyProject.PL\Company.DaL\bin\Debug\net5.0\Company.DaL.deps.json
+D:\02 Corses\Web\02 Back-End\Route\Eng Aliaa Tarek\07 MVC\مشروع التخرج\CompanyProject.PL\CompanyProject.PL\Company.DaL\bin\Debug\net5.0\Company.DaL.dll
+D:\02 Corses\Web\02 Back-End\Route\Eng Aliaa Tarek\07 MVC\مشروع التخرج\CompanyProject.PL\CompanyProject.PL\Company.DaL\bin\Debug\net5.0\Company.DaL.pdb
+D:\02 Corses\Web\02 Back-End\Route\Eng Aliaa Tarek\07 MVC\مشروع التخرج\CompanyProject.PL\CompanyProject.PL\Company.DaL\obj\Debug\net5.0\Company.DaL.csproj.AssemblyReference.cache
+D:\02 Corses\Web\02 Back-End\Route\Eng Aliaa Tarek\07 MVC\مشروع التخرج\CompanyProject.PL\CompanyProject.PL\Company.DaL\obj\Debug\net5.0\Company.DaL.GeneratedMSBuildEditorConfig.editorconfig
+D:\02 Corses\Web\02 Back-End\Route\Eng Aliaa Tarek\07 MVC\مشروع التخرج\CompanyProject.PL\CompanyProject.PL\Company.DaL\obj\Debug\net5.0\Company.DaL.AssemblyInfoInputs.cache
+D:\02 Corses\Web\02 Back-End\Route\Eng Aliaa Tarek\07 MVC\مشروع التخرج\CompanyProject.PL\CompanyProject.PL\Company.DaL\obj\Debug\net5.0\Company.DaL.AssemblyInfo.cs
+D:\02 Corses\Web\02 Back-End\Route\Eng Aliaa Tarek\07 MVC\مشروع التخرج\CompanyProject.PL\CompanyProject.PL\Company.DaL\obj\Debug\net5.0\Company.DaL.csproj.CoreCompileInputs.cache
+D:\02 Corses\Web\02 Back-End\Route\Eng Aliaa Tarek\07 MVC\مشروع التخرج\CompanyProject.PL\CompanyProject.PL\Company.DaL\obj\Debug\net5.0\Company.DaL.dll
+D:\02 Corses\Web\02 Back-End\Route\Eng Aliaa Tarek\07 MVC\مشروع التخرج\CompanyProject.PL\CompanyProject.PL\Company.DaL\obj\Debug\net5.0\refint\Company.DaL.dll
+D:\02 Corses\Web\02 Back-End\Route\Eng Aliaa Tarek\07 MVC\مشروع التخرج\CompanyProject.PL\CompanyProject.PL\Company.DaL\obj\Debug\net5.0\Company.DaL.pdb
+D:\02 Corses\Web\02 Back-End\Route\Eng Aliaa Tarek\07 MVC\مشروع التخرج\CompanyProject.PL\CompanyProject.PL\Company.DaL\obj\Debug\net5.0\ref\Company.DaL.dll
+D:\GitHubProject\E-CommerceWebApplicationRepository\Company.DaL\bin\Debug\net5.0\Company.DaL.deps.json
+D:\GitHubProject\E-CommerceWebApplicationRepository\Company.DaL\bin\Debug\net5.0\Company.DaL.dll
+D:\GitHubProject\E-CommerceWebApplicationRepository\Company.DaL\bin\Debug\net5.0\Company.DaL.pdb
+D:\GitHubProject\E-CommerceWebApplicationRepository\Company.DaL\obj\Debug\net5.0\Company.DaL.csproj.AssemblyReference.cache
+D:\GitHubProject\E-CommerceWebApplicationRepository\Company.DaL\obj\Debug\net5.0\Company.DaL.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubProject\E-CommerceWebApplicationRepository\Company.DaL\obj\Debug\net5.0\Company.DaL.AssemblyInfoInputs.cache
+D:\GitHubProject\E-CommerceWebApplicationRepository\Company.DaL\obj\Debug\net5.0\Company.DaL.AssemblyInfo.cs
+D:\GitHubProject\E-CommerceWebApplicationRepository\Company.DaL\obj\Debug\net5.0\Company.DaL.csproj.CoreCompileInputs.cache
+D:\GitHubProject\E-CommerceWebApplicationRepository\Company.DaL\obj\Debug\net5.0\Company.DaL.dll
+D:\GitHubProject\E-CommerceWebApplicationRepository\Company.DaL\obj\Debug\net5.0\refint\Company.DaL.dll
+D:\GitHubProject\E-CommerceWebApplicationRepository\Company.DaL\obj\Debug\net5.0\Company.DaL.pdb
+D:\GitHubProject\E-CommerceWebApplicationRepository\Company.DaL\obj\Debug\net5.0\ref\Company.DaL.dll
