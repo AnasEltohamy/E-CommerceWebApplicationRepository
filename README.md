@@ -81,4 +81,3 @@ To run the project successfully, make sure the following tools are installed in 
   - Repository Pattern
   - Unit of Work Pattern
 
-- Facial recognition algorithms are integrated into the system logic to analyze and match facial features with previously stored images, enabling accurate identity detection for children.
