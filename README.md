@@ -63,7 +63,7 @@ To run the project successfully, make sure the following tools are installed in 
    You can either:
    - Register a new account through the registration page.  
    - Or use the pre-configured test account:
-     - Email: `anas@gmail.com`  
+     - Email: `Anas@gmail.com`  
      - Password: `Eelu20-00236`
 
 ---
