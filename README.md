@@ -1,13 +1,27 @@
-# Setup Instructions for the Lost Children Facial Recognition System
+# E-Commerce Web Application
 
 ## Project Overview
 
-This project aims to support the recovery of lost or unidentified children and help reunite them with their families using facial recognition technology.  
-The core idea is to analyze a child’s facial image and compare it against a database of previously recorded faces. If a match is found:
+The **E-Commerce Web Application** is a company management system built to organize internal departments and manage employees within each department.
 
-- The system retrieves the child's stored information.
-- The family is contacted using the available contact details.
-- Authorities are notified to safely return the child to their family.
+The core features of the application include:
+
+- Creating and managing departments within the company.
+- Adding, updating, and deleting employees under specific departments.
+- Each employee is directly linked to a department to ensure organized data.
+- Full CRUD (Create, Read, Update, Delete) operations for both departments and employees.
+
+This system helps companies maintain structured records and facilitates efficient employee and department tracking.
+
+---
+
+## Features
+
+- Department Management (Add, Edit, Delete)
+- Employee Management (Add, Edit, Delete)
+- Department-wise employee listing
+- Clean and responsive user interface
+- Built with scalable architecture to support future enhancements
 
 ---
 
